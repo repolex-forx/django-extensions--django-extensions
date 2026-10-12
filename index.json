@@ -1,0 +1,11 @@
+{
+  "org": "django-extensions",
+  "repo": "django-extensions",
+  "versions": [
+    {
+      "commit": "9bdf31556675e795c7c7c4f033f194dc075d5919",
+      "tag": "",
+      "parsed_at": "2026-10-12T20:50:02.406326+00:00"
+    }
+  ]
+}
