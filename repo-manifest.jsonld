@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/django-extensions/django-extensions/commit/9bdf31556675e795c7c7c4f033f194dc075d5919",
       "git:hexsha": "9bdf31556675e795c7c7c4f033f194dc075d5919",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/django-extensions/django-extensions/commit/c99a84fa1b6b78ed3760211f133da990bd8f4761",
